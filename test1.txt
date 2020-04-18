@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 1CAC-30B2
+
+ Directory of C:\Users\neupa\OneDrive\Desktop\MyProject
+
+04/17/2020  08:23 PM    <DIR>          .
+04/17/2020  08:23 PM    <DIR>          ..
+04/17/2020  08:23 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  389,516,558,336 bytes free
